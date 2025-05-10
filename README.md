@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Munzer</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm MONSER ALI </h1>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on **a multiplayer puzzle game**
 - 🌱 I’m learning **JavaFX, networking, and backend integration**
