@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm MONSER ALI </h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **a multiplayer puzzle game**
+
 - 🌱 I’m learning **JavaFX, networking, and backend integration**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Munzer99)
-- 💬 Ask me about **Java, MySQL, Scene Builder, IntelliJ**
-- 📫 How to reach me **munzer.dev@email.com**
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/monserali)
 - ⚡ Fun fact: *I love solving riddles and feeding street dogs 🐶*
 
 ---
