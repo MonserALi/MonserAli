@@ -21,18 +21,18 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munzer99&show_icons=true&theme=radical" alt="Munzer's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=monserali&show_icons=true&theme=radical" alt="Monser's GitHub stats"/>
 </p>
 
 ---
 
 ### 📈 Streak Stats:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munzer99&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monserali&theme=radical"/>
 </p>
 
 ---
 
 ### ✨ Visitors:
-![Visitor Badge](https://komarev.com/ghpvc/?username=Munzer99&style=flat-square&color=blue)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Monserali&style=flat-square&color=blue)
 
