@@ -1,5 +1,5 @@
 <h2>👋 Hi there, I'm Monser!</h2>
-<p>Welcome to my profile. I'm passionate about coding, solving problems with data structures and algorithms and devoloping applications and learning new things.</p>
+<p>Welcome to my profile. I'm passionate about coding, solving problems with data structures and algorithms, devoloping applications and learning new things.</p>
 
 
 <h3>💡 Skills</h3>
