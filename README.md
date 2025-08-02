@@ -9,8 +9,3 @@
   <li><strong>Soft Skills:</strong> Leadership, Teamwork</li>
   <li><strong>Project Management Tools:</strong> Git, GitHub, Google Colab</li>
 </ul>
-
-<h3>📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="180px"/>
-</p>
